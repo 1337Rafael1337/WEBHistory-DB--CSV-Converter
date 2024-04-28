@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WEBHistory-DB--CSV-Converter", "WEBHistory-DB--CSV-Converter\WEBHistory-DB--CSV-Converter.pyproj", "{F28194E9-E1B6-4E50-AAC6-6D4BC9EA0449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F28194E9-E1B6-4E50-AAC6-6D4BC9EA0449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28194E9-E1B6-4E50-AAC6-6D4BC9EA0449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {319BF187-7340-4C92-A15D-E942F4EC59DB}
+	EndGlobalSection
+EndGlobal
